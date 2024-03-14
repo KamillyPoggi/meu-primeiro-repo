@@ -1,0 +1,22 @@
+.box {
+    background-color: #6ef745;
+    width: 200px;
+    height: 100px;
+  }
+  .box2 {
+    background-color: #510eec; 
+    width: 150%; 
+    height: 150%
+  }
+  .box3{
+    background-color: #ff7300;
+    width: 15vw;
+    height: 15%;
+  }
+  p{
+    color: rgb(255, 138, 255);
+    background-color: #72579e;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 270;
+  }
